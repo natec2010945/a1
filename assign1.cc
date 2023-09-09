@@ -1,4 +1,10 @@
-/*************************************************************************
+#include <iostream>
+using namespace std;
+int main(){
+}
+
+/*
+*************************************************************************
 * NIU CSCI 340 0002
 * Assignment 1
 * Nathaniel Camorlinga z2010945 natec2010945
@@ -8,6 +14,5 @@
 *the work of others (including StackOverflow or ChatGPT) as my own is an act of Academic
 * Misconduct and will be punished as such.
 
-
-/***********************************************************************
-
+************************************************************************
+*/
